@@ -1,6 +1,6 @@
-# Copilot Skills — IntNovAction
+# Code Skills — IntNovAction
 
-Repositorio central de **Agent Skills** de ([IntNovAction](https://www.intnovaction.com/)). Una colección de habilidades especializadas para asistentes de IA que siguen el **estándar abierto Agent Skills** ([agentskills.io](https://agentskills.io)).
+Repositorio central de **Agent Skills** de [IntNovAction](https://www.intnovaction.com/). Una colección de habilidades especializadas para asistentes de IA que siguen el **estándar abierto Agent Skills** ([agentskills.io](https://agentskills.io)).
 
 ---
 
